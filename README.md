@@ -4,6 +4,7 @@
 ### IIT Madras, Chennai, Tamil Nadu
 ### Assignment-1: Exploring VGG6 on CIFAR-10 with different configuration
 ### Roll Num: CS25M538
+### Name: SUMEET KUMAR SAHU
 #########################################################################
 
 This project explores training a custom VGG6 model on the CIFAR-10 dataset using PyTorch. It is modularized into separate files for clarity and maintainability.
